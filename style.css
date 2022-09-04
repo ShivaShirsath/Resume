@@ -122,11 +122,10 @@ a {
 
 a::after {
   content: "ShivaShirsath";
-  height: 4vmin;
   line-height: 4.5vmin;
   margin-left: 4.5vmin;
   color: green;
-  border-bottom: 0.4vmin green solid;
+  border-bottom: 0.4vmin solid green;
 }
 
 a:hover {
